@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://sovereignengine.cn/sitemap.xml
